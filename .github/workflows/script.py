@@ -15,6 +15,12 @@ def update_quote():
     # Encontrar la frase del día
     quote = soup.find('blockquote').text.strip()
 
+    # Dividir la cita en sus componentes
+    h4, rest = quote.split('\n', 1)
+    author, kursiva = rest.split('(', 1)
+    author = author.strip()
+    kursiva = '(' + kursiva.split('.\n')[0] + '.'
+
     # Leer el archivo README.md
     with open('README.md', 'r') as file:
         lines = file.readlines()
@@ -27,8 +33,9 @@ def update_quote():
         end_index = lines.index(end_marker)
         del lines[start_index:end_index]
 
-    # Insertar la nueva frase con los marcadores
-    lines.insert(start_index, quote + '\n')
+    # Insertar la nueva frase con los marcadores y el formato deseado
+    lines.insert(start_index, f'#### {h4}\n')
+    lines.insert(start_index + 1, f'**{author}** *{kursiva}*\n')
 
     # Escribir el contenido actualizado en el archivo README.md
     with open('README.md', 'w') as file:
@@ -59,11 +66,12 @@ def update_weather():
     # Mapear el estado del tiempo a un emoji
     weather_emoji_map = {
         'Despejado': '☀️',
-        'Nubes dispersas': '🌤️',
-        'Nublado': '🌥️',
+        'Intervalos nubosos': '🌤️',
+        'Cielos Nubosos': '🌥️',
+        'Cielos Cubiertos': '☁️',
         'Lluvia ligera': '🌦️',
-        'Lluvia': '🌧️',
-        'Tormenta': '⛈️',
+        'Lluvia moderada': '🌧️',
+        'Tormentas': '⛈️',
         'Nieve': '🌨️',
         'Niebla': '🌫️'
     }
@@ -117,6 +125,7 @@ def update_images():
         
 
 # Llamar a las funciones
-update_images()
+
 update_quote()
+update_images()
 update_weather()

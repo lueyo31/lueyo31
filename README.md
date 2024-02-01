@@ -1,15 +1,10 @@
 # Don Antonio Suárez
 ## Desarrollador web
-### Valencia:  16° ☀️
+### Valencia:  14° 🌤️
 ### Frase del día:
 <!-- START QUOTE -->
-Inteligencia es lo que usas cuando no sabes qué hacer.
-
- Jean Piaget
-(1896-1980) Filósofo y psicólogo suizo.
-
-
-Inteligencia
+#### Inteligencia es lo que usas cuando no sabes qué hacer.
+**Jean Piaget** *(1896-1980) Filósofo y psicólogo suizo.*
 <!-- END QUOTE -->
 
 
