@@ -1,6 +1,6 @@
 # Don Antonio Suárez
-## Desarrollador web
 ### Valencia:  14° 🌤️
+## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
 ### Inteligencia es lo que usas cuando no sabes qué hacer.
@@ -12,7 +12,7 @@
 
 
 
-### Personas felices de lo bien que hago mi trabajo:
+## Personas felices de lo bien que hago mi trabajo:
 
 <p float="left">
   <img src="src/image_0.png" width="32%" />

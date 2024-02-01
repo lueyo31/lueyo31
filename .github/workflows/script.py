@@ -88,7 +88,7 @@ def update_weather():
     lines = [line for line in lines if 'Valencia:' not in line]
 
     # Insertar la nueva línea del clima en la línea 2
-    lines.insert(2, weather_line)
+    lines.insert(1, weather_line)
 
     # Escribir el contenido actualizado en el archivo README.md
     with open('README.md', 'w') as file:
