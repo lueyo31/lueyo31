@@ -17,11 +17,11 @@ Inteligencia
 
 
 
-### Esta persona no existe:
-<img src="https://thispersondoesnotexist.com/?1706802439556" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802499598" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802500599" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802501600" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802502600" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802503601" width="200" height="200">
-<img src="https://thispersondoesnotexist.com/?1706802504603" width="200" height="200">
+### Personas felices de lo bien que hago mi trabajo:
+
+![Image 1](src/image_0.png)
+![Image 2](src/image_1.png)
+![Image 3](src/image_2.png)
+![Image 4](src/image_3.png)
+![Image 5](src/image_4.png)
+![Image 6](src/image_5.png)

@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import os
-import wget
+from PIL import Image
+import io
 
 def update_quote():
     # Obtener la página web
@@ -88,9 +89,9 @@ def update_weather():
 
 
 def update_images():
-    # Crear la carpeta images si no existe
-    if not os.path.exists('images'):
-        os.makedirs('images')
+    # Crear la carpeta src si no existe
+    if not os.path.exists('src'):
+        os.makedirs('src')
 
     # Leer el archivo README.md
     with open('README.md', 'r') as file:
@@ -100,27 +101,22 @@ def update_images():
     index = next((i for i, line in enumerate(lines) if 'Esta persona no existe' in line.lower()), -1)
 
     for i in range(6):
-        # Descargar la imagen
-        image_url = 'https://thispersondoesnotexist.com/image'
-        image_path = f'images/image_{i}.png'
-        wget.download(image_url, image_path)
+    # Descargar la imagen
+        time.sleep(0.8)
+        image_url = 'https://thispersondoesnotexist.com/'
+        image_path = f'src/image_{i}.png'
+        response = requests.get(image_url, headers={'User-Agent': 'Mozilla/5.0'})
 
-        # Crear el código Markdown para la imagen con el tamaño deseado
-        image_line = f'<img src="{image_path}" width="200" height="200">\n'
+    # Abrir la imagen desde la respuesta y redimensionarla
+        img = Image.open(io.BytesIO(response.content))
+        img = img.resize((200, 200))
 
-        if index != -1:
-            # Si se encontró la línea, insertar la línea de la imagen después de ella
-            lines.insert(index + 1, image_line)
-            index += 1  # Incrementar el índice para la próxima inserción
-        else:
-            # Si no se encontró la línea, agregar la línea de la imagen al final
-            lines.append(image_line)
+    # Guardar la imagen redimensionada
+        img.save(image_path)
 
-    # Escribir el contenido actualizado en el archivo README.md
-    with open('README.md', 'w') as file:
-        file.writelines(lines)
+        
 
 # Llamar a las funciones
+update_images()
 update_quote()
 update_weather()
-update_images()
