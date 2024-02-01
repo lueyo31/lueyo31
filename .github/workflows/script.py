@@ -34,7 +34,7 @@ def update_quote():
         del lines[start_index:end_index]
 
     # Insertar la nueva frase con los marcadores y el formato deseado
-    lines.insert(start_index, f'#### {h4}\n')
+    lines.insert(start_index, f'### {h4}\n')
     lines.insert(start_index + 1, f'**{author}** *{kursiva}*\n')
 
     # Escribir el contenido actualizado en el archivo README.md
