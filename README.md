@@ -19,9 +19,13 @@ Inteligencia
 
 ### Personas felices de lo bien que hago mi trabajo:
 
-![Image 1](src/image_0.png)
-![Image 2](src/image_1.png)
-![Image 3](src/image_2.png)
-![Image 4](src/image_3.png)
-![Image 5](src/image_4.png)
-![Image 6](src/image_5.png)
+<p float="left">
+  <img src="src/image_0.png" width="32%" />
+  <img src="src/image_1.png" width="32%" /> 
+  <img src="src/image_2.png" width="32%" />
+</p>
+<p float="left">
+  <img src="src/image_3.png" width="32%" />
+  <img src="src/image_4.png" width="32%" /> 
+  <img src="src/image_5.png" width="32%" />
+</p>
