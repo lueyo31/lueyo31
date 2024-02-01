@@ -1,19 +1,27 @@
 # Don Antonio Suárez
 ## Desarrollador web
+### Valencia:  16° ☀️
+### Frase del día:
+<!-- START QUOTE -->
+Inteligencia es lo que usas cuando no sabes qué hacer.
+
+ Jean Piaget
+(1896-1980) Filósofo y psicólogo suizo.
+
+
+Inteligencia
+<!-- END QUOTE -->
+
+
+
+
+
+
 ### Esta persona no existe:
-![Minion](https://thispersondoesnotexist.com/)
-
-<!--
-**lueyo31/lueyo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://thispersondoesnotexist.com/?1706802439556" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802499598" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802500599" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802501600" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802502600" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802503601" width="200" height="200">
+<img src="https://thispersondoesnotexist.com/?1706802504603" width="200" height="200">
