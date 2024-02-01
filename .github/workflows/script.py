@@ -78,7 +78,7 @@ def update_weather():
     weather_emoji = weather_emoji_map[weather]  # Esto lanzará una excepción si la descripción no está en el diccionario
 
     # Crear la línea del clima
-    weather_line = f'### Valencia: {temperature} {weather_emoji}\n'
+    weather_line = f'### Valencia: {temperature}C {weather_emoji}\n'
 
     # Leer el archivo README.md
     with open('README.md', 'r') as file:
