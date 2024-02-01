@@ -109,17 +109,18 @@ def update_images():
     index = next((i for i, line in enumerate(lines) if 'Esta persona no existe' in line.lower()), -1)
 
     for i in range(6):
-    # Descargar la imagen
+        # Descargar la imagen
         time.sleep(0.8)
-        image_url = 'https://thispersondoesnotexist.com/'
+        timestamp = int(time.time())
+        image_url = f'https://thispersondoesnotexist.com/?{timestamp}'
         image_path = f'src/image_{i}.png'
         response = requests.get(image_url, headers={'User-Agent': 'Mozilla/5.0'})
 
-    # Abrir la imagen desde la respuesta y redimensionarla
+        # Abrir la imagen desde la respuesta y redimensionarla
         img = Image.open(io.BytesIO(response.content))
         img = img.resize((200, 200))
 
-    # Guardar la imagen redimensionada
+        # Guardar la imagen redimensionada
         img.save(image_path)
 
         
