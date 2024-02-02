@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  12°C 🌤️
+### Valencia:  9°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Inteligencia es lo que usas cuando no sabes qué hacer.
-**Jean Piaget** *(1896-1980) Filósofo y psicólogo suizo.*
+### Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
+**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
 <!-- END QUOTE -->
 
 
