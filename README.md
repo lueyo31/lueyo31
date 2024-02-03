@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  8°C ☀️
+### Valencia:  7°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
-**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
+### La individualidad es apenas una ficción breve dentro de una especie social.
+**Michel Houellebecq** *(1958-?) Poeta, novelista y ensayista francés.*
 <!-- END QUOTE -->
 
 
