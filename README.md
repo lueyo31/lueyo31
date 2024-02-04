@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La individualidad es apenas una ficción breve dentro de una especie social.
-**Michel Houellebecq** *(1958-?) Poeta, novelista y ensayista francés.*
+### La cosa tiene gracia porque se supone que la diversidad es lo más moderno que hay, pero si uno toma una muestra de ciudadanos, nunca lo diría.
+**Douglas Coupland** *(1961-?) Escritor de ficción canadiense.*
 <!-- END QUOTE -->
 
 
