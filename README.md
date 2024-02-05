@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  8°C ☀️
+### Valencia:  7°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La cosa tiene gracia porque se supone que la diversidad es lo más moderno que hay, pero si uno toma una muestra de ciudadanos, nunca lo diría.
-**Douglas Coupland** *(1961-?) Escritor de ficción canadiense.*
+### Es prudente no fiarse por entero de quienes nos han engañado una vez.
+**René Descartes** *(1596-1650) Filósofo y matemático francés.*
 <!-- END QUOTE -->
 
 
