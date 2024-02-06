@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es prudente no fiarse por entero de quienes nos han engañado una vez.
-**René Descartes** *(1596-1650) Filósofo y matemático francés.*
+### Nada tan peligroso como una idea amplia en cerebros estrechos.
+**Hipólito Taine** *(1828-1893) Escritor francés.*
 <!-- END QUOTE -->
 
 
