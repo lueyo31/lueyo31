@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  8°C ☀️
+### Valencia:  10°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Nada tan peligroso como una idea amplia en cerebros estrechos.
-**Hipólito Taine** *(1828-1893) Escritor francés.*
+### El tedio es una enfermedad del entendimiento que no acontece sino a los ociosos.
+**Concepción Arenal** *(1820-1893) Escritora y socióloga española.*
 <!-- END QUOTE -->
 
 
