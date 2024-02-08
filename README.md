@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  15°C ☀️
+### Valencia:  15°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El tedio es una enfermedad del entendimiento que no acontece sino a los ociosos.
-**Concepción Arenal** *(1820-1893) Escritora y socióloga española.*
+### Una parte de los hombres actúan sin pensar y la otra piensa sin actuar.
+**Ugo Foscolo** *(1778-1827) Escritor y poeta italiano.*
 <!-- END QUOTE -->
 
 
