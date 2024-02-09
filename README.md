@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  17°C ☁️
+### Valencia:  16°C 🌥️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Una parte de los hombres actúan sin pensar y la otra piensa sin actuar.
-**Ugo Foscolo** *(1778-1827) Escritor y poeta italiano.*
+### La modestia es el complemento de la sabiduría.
+**Bernard Le Bouvier de Fontenelle** *(1657-1757) Escritor francés.*
 <!-- END QUOTE -->
 
 
