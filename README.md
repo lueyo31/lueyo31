@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  14°C 🌤️
+### Valencia:  14°C 🌥️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La modestia es el complemento de la sabiduría.
-**Bernard Le Bouvier de Fontenelle** *(1657-1757) Escritor francés.*
+### Los celos son una mezcla explosiva de amor, odio, avaricia y orgullo.
+**Alphonse Karr** *(1808-1890) Escritor francés.*
 <!-- END QUOTE -->
 
 
