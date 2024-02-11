@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  11°C ☀️
+### Valencia:  11°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Los celos son una mezcla explosiva de amor, odio, avaricia y orgullo.
-**Alphonse Karr** *(1808-1890) Escritor francés.*
+### La libertad es aquella facultad que aumenta la utilidad de todas las demás facultades.
+**Immanuel Kant** *(1724-1804) Filosofo alemán.*
 <!-- END QUOTE -->
 
 
