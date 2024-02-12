@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  12°C 🌥️
+### Valencia:  13°C 🌥️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La libertad es aquella facultad que aumenta la utilidad de todas las demás facultades.
-**Immanuel Kant** *(1724-1804) Filosofo alemán.*
+### Se habla sin cesar contra las pasiones. Se las considera la fuente de todo mal humano, pero se olvida que también lo son de todo placer.
+**Denis Diderot** *(1713-1784) Escritor francés.*
 <!-- END QUOTE -->
 
 
