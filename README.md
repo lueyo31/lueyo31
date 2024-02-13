@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Se habla sin cesar contra las pasiones. Se las considera la fuente de todo mal humano, pero se olvida que también lo son de todo placer.
-**Denis Diderot** *(1713-1784) Escritor francés.*
+### La calma absoluta no es la ley del océano. Lo mismo ocurre en el océano de la vida.
+**Paulo Coelho** *(1947-?) Escritor brasileño.*
 <!-- END QUOTE -->
 
 
