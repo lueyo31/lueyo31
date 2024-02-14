@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La calma absoluta no es la ley del océano. Lo mismo ocurre en el océano de la vida.
-**Paulo Coelho** *(1947-?) Escritor brasileño.*
+### ¿Hasta cuándo vamos a seguir creyendo que la felicidad no es más que uno de los juegos de la ilusión?
+**Julio Cortázar** *(1914-1984) Escritor argentino.*
 <!-- END QUOTE -->
 
 
