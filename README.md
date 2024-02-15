@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  12°C 🌤️
+### Valencia:  11°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### ¿Hasta cuándo vamos a seguir creyendo que la felicidad no es más que uno de los juegos de la ilusión?
-**Julio Cortázar** *(1914-1984) Escritor argentino.*
+### El hombre está condenado a ser libre.
+**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
 <!-- END QUOTE -->
 
 
