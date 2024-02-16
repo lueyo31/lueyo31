@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  13°C 🌥️
+### Valencia:  11°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El hombre está condenado a ser libre.
-**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
+### El futuro es ese periodo de tiempo en el que prosperan nuestros negocios, nuestros amigos son verdaderos y nuestra felicidad segura.
+**Ambrose Bierce** *(1842-1914) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
