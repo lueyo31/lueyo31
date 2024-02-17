@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  11°C ☀️
+### Valencia:  10°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El futuro es ese periodo de tiempo en el que prosperan nuestros negocios, nuestros amigos son verdaderos y nuestra felicidad segura.
-**Ambrose Bierce** *(1842-1914) Escritor estadounidense.*
+### Tener un amigo no es cosa de la que pueda ufanarse todo el mundo.
+**Antoine de Saint-Exupéry** *(1900-1944) Escritor francés.*
 <!-- END QUOTE -->
 
 
