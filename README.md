@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  10°C ☀️
+### Valencia:  9°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Tener un amigo no es cosa de la que pueda ufanarse todo el mundo.
-**Antoine de Saint-Exupéry** *(1900-1944) Escritor francés.*
+### Sacar provecho de un buen consejo exige más sabiduría que darlo.
+**John Churton Collins** *(1848-1908) Crítico literario inglés.*
 <!-- END QUOTE -->
 
 
