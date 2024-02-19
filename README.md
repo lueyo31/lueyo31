@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  11°C 🌤️
+### Valencia:  10°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sacar provecho de un buen consejo exige más sabiduría que darlo.
-**John Churton Collins** *(1848-1908) Crítico literario inglés.*
+### La más segura cura para la vanidad es la soledad.
+**Tom Wolfe** *(1931-2018) Periodista y escritor estadounidense.*
 <!-- END QUOTE -->
 
 
