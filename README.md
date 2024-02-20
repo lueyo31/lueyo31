@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La más segura cura para la vanidad es la soledad.
-**Tom Wolfe** *(1931-2018) Periodista y escritor estadounidense.*
+### Si el dinero no te da la felicidad devuélvelo.
+**Jules Renard** *(1864-1910) Escritor y dramaturgo francés.*
 <!-- END QUOTE -->
 
 
