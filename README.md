@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  9°C 🌤️
+### Valencia:  8°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si el dinero no te da la felicidad devuélvelo.
-**Jules Renard** *(1864-1910) Escritor y dramaturgo francés.*
+### Lo que las leyes no prohíben, puede prohibirlo la honestidad.
+**Séneca** *(2 AC-65) Filósofo latino.*
 <!-- END QUOTE -->
 
 
