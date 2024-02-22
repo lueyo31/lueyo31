@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  13°C ☁️
+### Valencia:  14°C ☁️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Lo que las leyes no prohíben, puede prohibirlo la honestidad.
-**Séneca** *(2 AC-65) Filósofo latino.*
+### Valor es lo que se necesita para levantarse y hablar; pero también es lo que se requiere para sentarse y escuchar.
+**Winston Churchill** *(1874-1965) Político británico.*
 <!-- END QUOTE -->
 
 
