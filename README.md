@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  18°C 🌤️
+### Valencia:  17°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Valor es lo que se necesita para levantarse y hablar; pero también es lo que se requiere para sentarse y escuchar.
-**Winston Churchill** *(1874-1965) Político británico.*
+### Haz lo que puedas, con lo que tengas, estés donde estés.
+**Theodore Roosevelt** *(1858-1919) Político estadounidense.*
 <!-- END QUOTE -->
 
 
