@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  12°C 🌥️
+### Valencia:  11°C 🌥️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Haz lo que puedas, con lo que tengas, estés donde estés.
-**Theodore Roosevelt** *(1858-1919) Político estadounidense.*
+### Si una sociedad libre no puede ayudar a sus muchos pobres, tampoco podrá salvar a sus pocos ricos.
+**John Fitzgerald Kennedy** *(1917-1963) Político estadounidense.*
 <!-- END QUOTE -->
 
 
