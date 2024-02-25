@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si una sociedad libre no puede ayudar a sus muchos pobres, tampoco podrá salvar a sus pocos ricos.
-**John Fitzgerald Kennedy** *(1917-1963) Político estadounidense.*
+### En las grandes crisis, el corazón se rompe o se curte.
+**Honoré de Balzac** *(1799-1850) Escritor francés.*
 <!-- END QUOTE -->
 
 
