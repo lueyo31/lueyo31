@@ -3,8 +3,11 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### En las grandes crisis, el corazón se rompe o se curte.
-**Honoré de Balzac** *(1799-1850) Escritor francés.*
+### El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender está tratando de forjar un hierro frío. 
+**Horace Mann** *(1796-1859) Educador estadounidense. 
+
+
+Educación.*
 <!-- END QUOTE -->
 
 
