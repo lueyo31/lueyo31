@@ -3,11 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender está tratando de forjar un hierro frío. 
-**Horace Mann** *(1796-1859) Educador estadounidense. 
-
-
-Educación.*
+### Un hombre solo está siempre en mala compañía.
+**Paul Valéry** *(1871-1945) Escritor francés.*
 <!-- END QUOTE -->
 
 
