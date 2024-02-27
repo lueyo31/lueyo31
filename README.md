@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Un hombre solo está siempre en mala compañía.
-**Paul Valéry** *(1871-1945) Escritor francés.*
+### Hay palabras que suben como el humo, y otras que caen como la lluvia.
+**Madame de Sévigné** *(1626-1696) Escritora francesa.*
 <!-- END QUOTE -->
 
 
