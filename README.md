@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay palabras que suben como el humo, y otras que caen como la lluvia.
-**Madame de Sévigné** *(1626-1696) Escritora francesa.*
+### El acento es el que convence y no la palabra.
+**Delphine-Gay de Girardin** *(1804-1855) Escritora francesa.*
 <!-- END QUOTE -->
 
 
