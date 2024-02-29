@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  10°C ☀️
+### Valencia:  9°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El acento es el que convence y no la palabra.
-**Delphine-Gay de Girardin** *(1804-1855) Escritora francesa.*
+### Un hombre no es desdichado a causa de la ambición, sino porque ésta lo devora.
+**Montesquieu** *(1689-1755) Escritor y político francés.*
 <!-- END QUOTE -->
 
 
