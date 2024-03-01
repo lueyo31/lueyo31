@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  13°C 🌤️
+### Valencia:  12°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Un hombre no es desdichado a causa de la ambición, sino porque ésta lo devora.
-**Montesquieu** *(1689-1755) Escritor y político francés.*
+### Aunque tengamos la evidencia de que hemos de vivir constantemente en la oscuridad y en las tinieblas, sin objeto y sin fin, hay que tener esperanza.
+**Pío Baroja** *(1872-1956) Escritor español.*
 <!-- END QUOTE -->
 
 
