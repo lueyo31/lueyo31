@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Aunque tengamos la evidencia de que hemos de vivir constantemente en la oscuridad y en las tinieblas, sin objeto y sin fin, hay que tener esperanza.
-**Pío Baroja** *(1872-1956) Escritor español.*
+### El conocimiento es orgulloso por lo mucho que ha aprendido; la sabiduría es humilde porque no sabe más.
+**William Cowper** *(1731-1800) Poeta británico.*
 <!-- END QUOTE -->
 
 
