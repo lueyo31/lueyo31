@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  11°C 🌥️
+### Valencia:  11°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El conocimiento es orgulloso por lo mucho que ha aprendido; la sabiduría es humilde porque no sabe más.
-**William Cowper** *(1731-1800) Poeta británico.*
+### Sólo podemos dar una opinión imparcial sobre las cosas que no nos interesan, sin duda por eso mismo las opiniones imparciales carecen de valor.
+**Oscar Wilde** *(1854-1900) Dramaturgo y novelista irlandés.*
 <!-- END QUOTE -->
 
 
