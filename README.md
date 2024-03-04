@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo podemos dar una opinión imparcial sobre las cosas que no nos interesan, sin duda por eso mismo las opiniones imparciales carecen de valor.
-**Oscar Wilde** *(1854-1900) Dramaturgo y novelista irlandés.*
+### Platón es mi amigo, pero la verdad me es más querida.
+**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
