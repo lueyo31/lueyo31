@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  14°C ☀️
+### Valencia:  13°C ☀️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Platón es mi amigo, pero la verdad me es más querida.
-**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
+### Nunca lleves tus mejores pantalones cuando salgas a luchar por la paz y la libertad.
+**Henrik Johan Ibsen** *(1828-1906) Dramaturgo noruego.*
 <!-- END QUOTE -->
 
 
