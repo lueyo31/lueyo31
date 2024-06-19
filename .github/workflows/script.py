@@ -73,7 +73,8 @@ def update_weather():
         'Lluvia moderada': '🌧️',
         'Tormentas': '⛈️',
         'Nieve': '🌨️',
-        'Niebla': '🌫️'
+        'Niebla': '🌫️',
+        'Calima': '🔥'
     }
     weather_emoji = weather_emoji_map[weather]  # Esto lanzará una excepción si la descripción no está en el diccionario
 
