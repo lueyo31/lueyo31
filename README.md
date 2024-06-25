@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  28°C 🔥
+### Valencia:  26°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Las palabras son sólo piedras puestas atravesando la corriente de un río. Si están allí es para que podamos llegar al otro margen, el otro margen es lo que importa.
-**José Saramago** *(1922-2010) Escritor portugués.*
+### La palabra es el arma de los humanos para aproximarse unos a otros.
+**Ana María Matute** *(1926-2014) Novelista española.*
 <!-- END QUOTE -->
 
 

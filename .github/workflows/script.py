@@ -78,9 +78,7 @@ def update_weather():
         'Calima': '🔥'
     }
     
-    weather_emoji = weather_emoji_map[weather]  # Si no encuentra el emoji, pondrá'el termometro emoji' 🌡️
-    if weather_emoji is None:
-        weather_emoji = '🌡️'
+    weather_emoji = weather_emoji_map.get(weather, '🌡️')
 
     # Crear la línea del clima
     weather_line = f'### Valencia: {temperature}C {weather_emoji}\n'
