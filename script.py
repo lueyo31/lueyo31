@@ -73,9 +73,12 @@ def update_weather():
         'Lluvia moderada': '🌧️',
         'Tormentas': '⛈️',
         'Nieve': '🌨️',
-        'Niebla': '🌫️'
+        'Niebla': '🌫️',
+        'Nubes y claros': '🌤️',
+        'Calima': '🔥'
     }
-    weather_emoji = weather_emoji_map[weather]  # Esto lanzará una excepción si la descripción no está en el diccionario
+    
+    weather_emoji = weather_emoji_map.get(weather, '🌡️')
 
     # Crear la línea del clima
     weather_line = f'### Valencia: {temperature}C {weather_emoji}\n'
