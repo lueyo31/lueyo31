@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  22°C 🌤️
+### Valencia:  22°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La palabra es el arma de los humanos para aproximarse unos a otros.
-**Ana María Matute** *(1926-2014) Novelista española.*
+### En una época de engaño universal decir la verdad es un acto revolucionario.
+**George Orwell** *(1903-1950) Escritor británico.*
 <!-- END QUOTE -->
 
 
