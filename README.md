@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  22°C 🔥
+### Valencia:  21°C 🔥
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### En una época de engaño universal decir la verdad es un acto revolucionario.
-**George Orwell** *(1903-1950) Escritor británico.*
+### Cuando los que mandan pierden la vergüenza, los que obedecen pierden el respeto.
+**Cardenal de Retz** *(1613-1679) Político y memorialista francés.*
 <!-- END QUOTE -->
 
 
