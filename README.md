@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Cuando los que mandan pierden la vergüenza, los que obedecen pierden el respeto.
-**Cardenal de Retz** *(1613-1679) Político y memorialista francés.*
+### Sólo hay una fuerza motriz: el deseo.
+**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
