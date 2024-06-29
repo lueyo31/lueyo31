@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo hay una fuerza motriz: el deseo.
-**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
+### Quitad de los corazones el amor por lo bello, y habréis quitado todo el encanto a la vida.
+**Jean Jacques Rousseau** *(1712-1778) Filósofo francés.*
 <!-- END QUOTE -->
 
 
