@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  21°C 🌤️
+### Valencia:  22°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Quitad de los corazones el amor por lo bello, y habréis quitado todo el encanto a la vida.
-**Jean Jacques Rousseau** *(1712-1778) Filósofo francés.*
+### No valores el trabajo hasta que acabe el día y la tarea esté hecha.
+**Elizabeth Barrett Browing** *(1806-1861) Poetisa inglesa.*
 <!-- END QUOTE -->
 
 
