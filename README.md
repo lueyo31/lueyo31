@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🌤️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No valores el trabajo hasta que acabe el día y la tarea esté hecha.
-**Elizabeth Barrett Browing** *(1806-1861) Poetisa inglesa.*
+### El nombre de amigo es corriente, pero la fe en la amistad, rara.
+**Fedro** *(15 AC-50) Fabulista latino.*
 <!-- END QUOTE -->
 
 
