@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌤️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El nombre de amigo es corriente, pero la fe en la amistad, rara.
-**Fedro** *(15 AC-50) Fabulista latino.*
+### La primera igualdad es la equidad.
+**Victor Hugo** *(1802-1885) Novelista francés.*
 <!-- END QUOTE -->
 
 
