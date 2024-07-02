@@ -1,5 +1,5 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌡️
+### Valencia:  22°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
