@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  19°C 🌡️
+### Valencia:  20°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Resulta imposible atravesar una muchedumbre con la llama de la verdad sin quemarle a alguien la barba.
-**Georg Christoph Lichtenberg** *(1742-1799) Profesor de física y científico alemán.*
+### La gente buena, si se piensa un poco en ello, ha sido siempre gente alegre.
+**Ernest Hemingway** *(1899-1961) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
