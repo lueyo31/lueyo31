@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La primera igualdad es la equidad.
-**Victor Hugo** *(1802-1885) Novelista francés.*
+### Resulta imposible atravesar una muchedumbre con la llama de la verdad sin quemarle a alguien la barba.
+**Georg Christoph Lichtenberg** *(1742-1799) Profesor de física y científico alemán.*
 <!-- END QUOTE -->
 
 
