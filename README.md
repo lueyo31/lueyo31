@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La gente buena, si se piensa un poco en ello, ha sido siempre gente alegre.
-**Ernest Hemingway** *(1899-1961) Escritor estadounidense.*
+### Al principio todos los pensamientos pertenecen al amor. Después, todo el amor pertenece a los pensamientos.
+**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
 <!-- END QUOTE -->
 
 
