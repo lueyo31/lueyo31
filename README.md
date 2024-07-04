@@ -1,10 +1,13 @@
 # Don Antonio Suárez
-### Valencia:  20°C 🌡️
+### Valencia:  19°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Al principio todos los pensamientos pertenecen al amor. Después, todo el amor pertenece a los pensamientos.
-**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
+### También las indecisiones se toman, también dejar de hacer es una forma de hacer.
+**Carmen Martín Gaite** *(1925-2000) Novelista española
+
+
+Decisiones.*
 <!-- END QUOTE -->
 
 
