@@ -1,13 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  21°C 🌡️
+### Valencia:  20°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### También las indecisiones se toman, también dejar de hacer es una forma de hacer.
-**Carmen Martín Gaite** *(1925-2000) Novelista española
-
-
-Decisiones.*
+### Lo que el público te reprocha, cultívalo. Eso eres tú.
+**Jean Cocteau** *(1889-1963) Escritor, pintor, coreógrafo.*
 <!-- END QUOTE -->
 
 
