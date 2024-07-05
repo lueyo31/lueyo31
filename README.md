@@ -3,7 +3,7 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Lo que el público te reprocha, cultívalo. Eso eres tú.
+### Es muy difícil hacer bella la felicidad. Una felicidad que sólo es ausencia de desdicha es cosa fea.
 **Jean Cocteau** *(1889-1963) Escritor, pintor, coreógrafo.*
 <!-- END QUOTE -->
 
