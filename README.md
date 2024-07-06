@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  22°C 🌡️
+### Valencia:  21°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es muy difícil hacer bella la felicidad. Una felicidad que sólo es ausencia de desdicha es cosa fea.
-**Jean Cocteau** *(1889-1963) Escritor, pintor, coreógrafo.*
+### Algunas personas son amables sólo porque no se atreven a ser de otra forma.
+**William Faulkner** *(1897-1962) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
