@@ -3,7 +3,7 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Algunas personas son amables sólo porque no se atreven a ser de otra forma.
+### No te molestes en ser mejor que tus contemporáneos o tus predecesores, intenta ser mejor que tú mismo.
 **William Faulkner** *(1897-1962) Escritor estadounidense.*
 <!-- END QUOTE -->
 
