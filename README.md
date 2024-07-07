@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌡️
+### Valencia:  23°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Los derechos individuales no están sujetos al voto público; una mayoría no tiene derecho a votar la derogación de los derechos de una minoría.
-**Ayn Rand** *(1905-1982) Filósofa y escritora ruso-estadounidense.*
+### La tradición es un guía, no un carcelero.
+**William Somerset Maugham** *(1874-1965) Escritor británico.*
 <!-- END QUOTE -->
 
 
