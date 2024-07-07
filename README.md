@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No te molestes en ser mejor que tus contemporáneos o tus predecesores, intenta ser mejor que tú mismo.
-**William Faulkner** *(1897-1962) Escritor estadounidense.*
+### Los derechos individuales no están sujetos al voto público; una mayoría no tiene derecho a votar la derogación de los derechos de una minoría.
+**Ayn Rand** *(1905-1982) Filósofa y escritora ruso-estadounidense.*
 <!-- END QUOTE -->
 
 
