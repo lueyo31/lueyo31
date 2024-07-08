@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La tradición es un guía, no un carcelero.
-**William Somerset Maugham** *(1874-1965) Escritor británico.*
+### Nunca hay que dejarse dominar, incluso cuando crees que el otro sabe lo que más te conviene.
+**Paul Auster** *(1947-2024) Novelista y poeta estadounidense.*
 <!-- END QUOTE -->
 
 
