@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Nunca hay que dejarse dominar, incluso cuando crees que el otro sabe lo que más te conviene.
-**Paul Auster** *(1947-2024) Novelista y poeta estadounidense.*
+### Para que triunfe el mal, sólo es necesario que los buenos no hagan nada.
+**Edmund Burke** *(1729-1797) Político y escritor irlandés.*
 <!-- END QUOTE -->
 
 
