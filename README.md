@@ -3,7 +3,7 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Para que triunfe el mal, sólo es necesario que los buenos no hagan nada.
+### Cuida tu ambición. Puede volar pero también arrastrarse.
 **Edmund Burke** *(1729-1797) Político y escritor irlandés.*
 <!-- END QUOTE -->
 
