@@ -1,10 +1,13 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌡️
+### Valencia:  22°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Cuida tu ambición. Puede volar pero también arrastrarse.
-**Edmund Burke** *(1729-1797) Político y escritor irlandés.*
+### Si algo he aprendido en la vida es a no perder el tiempo intentando cambiar el modo de ser del prójimo.
+**Carmen Martín Gaite** *(1925-2000) Novelista española
+
+
+Cambio.*
 <!-- END QUOTE -->
 
 
