@@ -3,11 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si algo he aprendido en la vida es a no perder el tiempo intentando cambiar el modo de ser del prójimo.
-**Carmen Martín Gaite** *(1925-2000) Novelista española
-
-
-Cambio.*
+### Sólo se ama lo que no se posee totalmente.
+**Marcel Proust** *(1871-1922) Escritor francés.*
 <!-- END QUOTE -->
 
 
