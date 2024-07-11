@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌡️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo se ama lo que no se posee totalmente.
-**Marcel Proust** *(1871-1922) Escritor francés.*
+### Todos los medios son buenos cuando son eficaces.
+**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
 <!-- END QUOTE -->
 
 
