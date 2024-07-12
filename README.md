@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌡️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Todos los medios son buenos cuando son eficaces.
-**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
+### Si de veras llegásemos a poder comprender, ya no podríamos juzgar.
+**André Malraux** *(1901-1976) Novelista y político francés.*
 <!-- END QUOTE -->
 
 
