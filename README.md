@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si de veras llegásemos a poder comprender, ya no podríamos juzgar.
-**André Malraux** *(1901-1976) Novelista y político francés.*
+### Para que nada nos separe que nada nos una.
+**Pablo Neruda** *(1904-1973) Poeta chileno.*
 <!-- END QUOTE -->
 
 
