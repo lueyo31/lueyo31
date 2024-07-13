@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Para que nada nos separe que nada nos una.
-**Pablo Neruda** *(1904-1973) Poeta chileno.*
+### Creo que la gente pierde la capacidad de sorprenderse porque diariamente presencia desastres que suceden en todos lados.
+**Nadine Gordimer** *(1923-2014) Escritora sudafricana.*
 <!-- END QUOTE -->
 
 
