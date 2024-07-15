@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌤️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Creo que la gente pierde la capacidad de sorprenderse porque diariamente presencia desastres que suceden en todos lados.
-**Nadine Gordimer** *(1923-2014) Escritora sudafricana.*
+### El amor es como el fuego; suelen ver antes el humo los que están fuera, que las llamas los que están dentro.
+**Jacinto Benavente** *(1866-1954) Dramaturgo español.*
 <!-- END QUOTE -->
 
 
