@@ -1,10 +1,13 @@
 # Don Antonio Suárez
-### Valencia:  27°C 🌤️
+### Valencia:  29°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo el conocimiento que llega desde dentro es el verdadero conocimiento.
-**Sócrates** *(470 AC-399 AC) Filósofo griego.*
+### Uno tiene que ir muy lejos, para saber hasta dónde se puede ir.
+**Heinrich  Böll** *(1917-1985) Escritor alemán
+
+
+Libertad.*
 <!-- END QUOTE -->
 
 
