@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El amor es como el fuego; suelen ver antes el humo los que están fuera, que las llamas los que están dentro.
-**Jacinto Benavente** *(1866-1954) Dramaturgo español.*
+### Sólo el conocimiento que llega desde dentro es el verdadero conocimiento.
+**Sócrates** *(470 AC-399 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
