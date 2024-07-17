@@ -3,11 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Uno tiene que ir muy lejos, para saber hasta dónde se puede ir.
-**Heinrich  Böll** *(1917-1985) Escritor alemán
-
-
-Libertad.*
+### Quien no sabe mostrarse cortés, va al encuentro de los castigos de la soberbia.
+**Fedro** *(15 AC-50) Fabulista latino.*
 <!-- END QUOTE -->
 
 
