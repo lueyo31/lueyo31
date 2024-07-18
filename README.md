@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌡️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Quien no sabe mostrarse cortés, va al encuentro de los castigos de la soberbia.
-**Fedro** *(15 AC-50) Fabulista latino.*
+### La verdad adelgaza y no quiebra, y siempre anda sobre la mentira como el aceite sobre el agua.
+**Miguel de Cervantes** *(1547-1616) Escritor español.*
 <!-- END QUOTE -->
 
 
