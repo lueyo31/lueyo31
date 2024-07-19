@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🔥
+### Valencia:  24°C 🔥
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La verdad adelgaza y no quiebra, y siempre anda sobre la mentira como el aceite sobre el agua.
-**Miguel de Cervantes** *(1547-1616) Escritor español.*
+### No quiero que la gente sea muy agradable, pues así me ahorran la molestia de que me tengan que gustar demasiado.
+**Jane Austen** *(1775-1817) Escritora británica.*
 <!-- END QUOTE -->
 
 
