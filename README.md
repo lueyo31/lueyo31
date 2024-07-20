@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Un discípulo de quien jamás se pide nada que no pueda hacer, nunca hace todo lo que puede.
-**John Stuart Mill** *(1806-1873) Filósofo y economista inglés.*
+### Dura es la ley de amor, pero por dura que sea, hay que obedecerla, pues la tierra y el cielo por ella están unidos desde el fondo de las edades.
+**Francesco Petrarca** *(1304-1374) Poeta italiano.*
 <!-- END QUOTE -->
 
 
