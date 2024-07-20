@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🔥
+### Valencia:  24°C 🔥
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No quiero que la gente sea muy agradable, pues así me ahorran la molestia de que me tengan que gustar demasiado.
-**Jane Austen** *(1775-1817) Escritora británica.*
+### Un discípulo de quien jamás se pide nada que no pueda hacer, nunca hace todo lo que puede.
+**John Stuart Mill** *(1806-1873) Filósofo y economista inglés.*
 <!-- END QUOTE -->
 
 
