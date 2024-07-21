@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Nuestra recompensa se encuentra en el esfuerzo y no en el resultado. Un esfuerzo total es una victoria completa.
-**Mahatma Gandhi** *(1869-1948) Político y pensador indio.*
+### Se necesitan dos años para aprender a hablar y sesenta para aprender a callar.
+**Ernest Hemingway** *(1899-1961) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
