@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Dura es la ley de amor, pero por dura que sea, hay que obedecerla, pues la tierra y el cielo por ella están unidos desde el fondo de las edades.
-**Francesco Petrarca** *(1304-1374) Poeta italiano.*
+### Nuestra recompensa se encuentra en el esfuerzo y no en el resultado. Un esfuerzo total es una victoria completa.
+**Mahatma Gandhi** *(1869-1948) Político y pensador indio.*
 <!-- END QUOTE -->
 
 
