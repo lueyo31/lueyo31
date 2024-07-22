@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Se necesitan dos años para aprender a hablar y sesenta para aprender a callar.
-**Ernest Hemingway** *(1899-1961) Escritor estadounidense.*
+### De qué sirve una casa sino se cuenta con un planeta tolerable donde situarla.
+**Henry David Thoreau** *(1817-1862) Escritor, poeta y pensador.*
 <!-- END QUOTE -->
 
 
