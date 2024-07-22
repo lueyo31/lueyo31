@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  27°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### De qué sirve una casa sino se cuenta con un planeta tolerable donde situarla.
-**Henry David Thoreau** *(1817-1862) Escritor, poeta y pensador.*
+### El pasado es un cubo lleno de cenizas. No vivas en el ayer ni en el mañana, sino aquí y ahora.
+**Carl Sandburg** *(1878-1967) Poeta, historiador y novelista estadounidense.*
 <!-- END QUOTE -->
 
 
