@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La diferencia entre la palabra adecuada y la casi correcta, es la misma que entre el rayo y la luciérnaga.
-**Mark Twain** *(1835-1910) Escritor y periodista estadounidense.*
+### No hace falta conocer el peligro para tener miedo; de hecho, los peligros desconocidos son los que inspiran más temor.
+**Alejandro Dumas** *(1802-1870) Escritor francés.*
 <!-- END QUOTE -->
 
 
