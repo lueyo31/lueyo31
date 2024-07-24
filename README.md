@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El pasado es un cubo lleno de cenizas. No vivas en el ayer ni en el mañana, sino aquí y ahora.
-**Carl Sandburg** *(1878-1967) Poeta, historiador y novelista estadounidense.*
+### La diferencia entre la palabra adecuada y la casi correcta, es la misma que entre el rayo y la luciérnaga.
+**Mark Twain** *(1835-1910) Escritor y periodista estadounidense.*
 <!-- END QUOTE -->
 
 
