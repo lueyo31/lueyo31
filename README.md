@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No hace falta conocer el peligro para tener miedo; de hecho, los peligros desconocidos son los que inspiran más temor.
-**Alejandro Dumas** *(1802-1870) Escritor francés.*
+### El modo de dar una vez en el clavo es dar cien veces en la herradura.
+**Miguel de Unamuno** *(1864-1936) Filósofo y escritor español.*
 <!-- END QUOTE -->
 
 
