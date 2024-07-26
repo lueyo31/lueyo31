@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El modo de dar una vez en el clavo es dar cien veces en la herradura.
-**Miguel de Unamuno** *(1864-1936) Filósofo y escritor español.*
+### El que te habla de los defectos de los demás, con los demás hablará de los tuyos.
+**Denis Diderot** *(1713-1784) Escritor francés.*
 <!-- END QUOTE -->
 
 
