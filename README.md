@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El que te habla de los defectos de los demás, con los demás hablará de los tuyos.
-**Denis Diderot** *(1713-1784) Escritor francés.*
+### Es difícil crear ideas y fácil crear palabras; de ahí el éxito de los filósofos.
+**André Maurois** *(1885-1967) Novelista y ensayista francés.*
 <!-- END QUOTE -->
 
 
