@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌡️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es difícil crear ideas y fácil crear palabras; de ahí el éxito de los filósofos.
-**André Maurois** *(1885-1967) Novelista y ensayista francés.*
+### Deben buscarse los amigos como los buenos libros. No está la felicidad en que sean muchos ni muy curiosos; sino pocos, buenos y bien conocidos.
+**Mateo Alemán** *(1547-1613) Novelista español.*
 <!-- END QUOTE -->
 
 
