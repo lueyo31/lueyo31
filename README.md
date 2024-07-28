@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Lo más triste del amor, Joe, no es que no dura para siempre, sino que incluso el desamor se olvida pronto.
-**William Faulkner** *(1897-1962) Escritor estadounidense.*
+### Siempre que una teoría aparece como la única posible, tomarla a rajatabla es señal de que ni se ha entendido la teoría ni el problema que se pretende resolver.
+**Karl Popper** *(1902-1994) Filósofo inglés.*
 <!-- END QUOTE -->
 
 
