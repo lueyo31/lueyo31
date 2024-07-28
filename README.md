@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  24°C 🌡️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Deben buscarse los amigos como los buenos libros. No está la felicidad en que sean muchos ni muy curiosos; sino pocos, buenos y bien conocidos.
-**Mateo Alemán** *(1547-1613) Novelista español.*
+### Lo más triste del amor, Joe, no es que no dura para siempre, sino que incluso el desamor se olvida pronto.
+**William Faulkner** *(1897-1962) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
