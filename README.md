@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La sabiduría suprema es tener sueños bastante grandes para no perderlos de vista mientras se persiguen.
-**William Faulkner** *(1897-1962) Escritor estadounidense.*
+### Hay que acostumbrarse a vivir con los enemigos, ya que no a todos podemos hacerles nuestros amigos.
+**Alexis Tocqueville** *(1805-1859) Político e historiador francés.*
 <!-- END QUOTE -->
 
 
