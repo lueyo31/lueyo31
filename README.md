@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Siempre que una teoría aparece como la única posible, tomarla a rajatabla es señal de que ni se ha entendido la teoría ni el problema que se pretende resolver.
-**Karl Popper** *(1902-1994) Filósofo inglés.*
+### La sabiduría suprema es tener sueños bastante grandes para no perderlos de vista mientras se persiguen.
+**William Faulkner** *(1897-1962) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
