@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🔥
+### Valencia:  24°C 🔥
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay que acostumbrarse a vivir con los enemigos, ya que no a todos podemos hacerles nuestros amigos.
-**Alexis Tocqueville** *(1805-1859) Político e historiador francés.*
+### Hay que tener cuidado al elegir a los enemigos porque uno termina pareciéndose a ellos.
+**Jorge Luis Borges** *(1899-1986) Escritor argentino.*
 <!-- END QUOTE -->
 
 
