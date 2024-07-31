@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay que tener cuidado al elegir a los enemigos porque uno termina pareciéndose a ellos.
-**Jorge Luis Borges** *(1899-1986) Escritor argentino.*
+### No se tome la vida demasiado en serio; nunca saldrá usted vivo de ella.
+**Elbert Hubbard** *(1856-1915) Ensayista estadounidense.*
 <!-- END QUOTE -->
 
 
