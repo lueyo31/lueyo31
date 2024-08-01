@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Uno es para siempre responsable de lo que domestica.
-**Antoine de Saint-Exupéry** *(1900-1944) Escritor francés.*
+### Engullimos de un sorbo la mentira que nos adula y bebemos gota a gota la verdad que nos amarga.
+**Denis Diderot** *(1713-1784) Escritor francés.*
 <!-- END QUOTE -->
 
 
