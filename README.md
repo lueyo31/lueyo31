@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Engullimos de un sorbo la mentira que nos adula y bebemos gota a gota la verdad que nos amarga.
-**Denis Diderot** *(1713-1784) Escritor francés.*
+### La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas.
+**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
