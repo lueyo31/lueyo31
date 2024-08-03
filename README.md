@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La amistad es un alma que habita en dos cuerpos; un corazón que habita en dos almas.
-**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
+### Comienza a manifestarse la madurez cuando sentimos que nuestra preocupación es mayor por los demás que por nosotros mismos.
+**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
 <!-- END QUOTE -->
 
 
