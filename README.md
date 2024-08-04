@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  27°C 🌡️
+### Valencia:  29°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El hombre, por lo común, sólo sabe reconocer su felicidad en la medida de la desgracia que ha experimentado.
-**Muslih-Ud-Din Saadi** *(1184-1291) Poeta persa.*
+### ¿Quieres ser rico? Pues no te afanes en aumentar tus bienes, sino en disminuir tu codicia.
+**Epicuro de Samos** *(341 AC-270 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
