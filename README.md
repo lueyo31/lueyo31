@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  27°C 🌡️
+### Valencia:  26°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Comienza a manifestarse la madurez cuando sentimos que nuestra preocupación es mayor por los demás que por nosotros mismos.
-**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
+### El hombre, por lo común, sólo sabe reconocer su felicidad en la medida de la desgracia que ha experimentado.
+**Muslih-Ud-Din Saadi** *(1184-1291) Poeta persa.*
 <!-- END QUOTE -->
 
 
