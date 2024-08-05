@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  31°C 🌡️
+### Valencia:  32°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Un vaso medio vacío de vino es también uno medio lleno, pero una mentiras a medias, de ningún modo es una media verdad.
-**Jean Cocteau** *(1889-1963) Escritor, pintor, coreógrafo.*
+### No he fracasado. He encontrado 10000 soluciones que no funcionan.
+**Thomas Alva Edison** *(1847-1931) Físico e inventor estadounidense.*
 <!-- END QUOTE -->
 
 
