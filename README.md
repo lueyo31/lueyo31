@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### ¿Quieres ser rico? Pues no te afanes en aumentar tus bienes, sino en disminuir tu codicia.
-**Epicuro de Samos** *(341 AC-270 AC) Filósofo griego.*
+### Un vaso medio vacío de vino es también uno medio lleno, pero una mentiras a medias, de ningún modo es una media verdad.
+**Jean Cocteau** *(1889-1963) Escritor, pintor, coreógrafo.*
 <!-- END QUOTE -->
 
 
