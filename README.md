@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No he fracasado. He encontrado 10000 soluciones que no funcionan.
-**Thomas Alva Edison** *(1847-1931) Físico e inventor estadounidense.*
+### Hay otro linaje de escépticos muchos más terribles, si cabe, que los que creen que todo es materia; todavía queda el caso de aquel escéptico para quien todo se reduce a su propio yo.
+**Gilbert Keith Chesterton** *(1874-1936) Escritor británico.*
 <!-- END QUOTE -->
 
 
