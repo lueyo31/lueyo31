@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay otro linaje de escépticos muchos más terribles, si cabe, que los que creen que todo es materia; todavía queda el caso de aquel escéptico para quien todo se reduce a su propio yo.
-**Gilbert Keith Chesterton** *(1874-1936) Escritor británico.*
+### Huye de los elogios pero trata de merecerlos.
+**Fénelon** *(1651-1715) Escritor y teólogo francés.*
 <!-- END QUOTE -->
 
 
