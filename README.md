@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Huye de los elogios pero trata de merecerlos.
-**Fénelon** *(1651-1715) Escritor y teólogo francés.*
+### Para investigar la verdad es preciso dudar, en cuanto sea posible, de todas las cosas.
+**René Descartes** *(1596-1650) Filósofo y matemático francés.*
 <!-- END QUOTE -->
 
 
