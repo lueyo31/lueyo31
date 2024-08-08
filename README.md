@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  23°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo se ve bien con el corazón; lo esencial es invisible para los ojos.
-**Antoine de Saint-Exupéry** *(1900-1944) Escritor francés.*
+### Los débiles no luchan. Los más fuertes quizás luchen una hora. Los que aún son más fuertes, luchan unos años. Pero los más fuertes de todos, luchan toda su vida, éstos son los indispensables.
+**Bertolt Brecht** *(1898-1956) Dramaturgo y poeta alemán.*
 <!-- END QUOTE -->
 
 
