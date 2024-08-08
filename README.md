@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Para investigar la verdad es preciso dudar, en cuanto sea posible, de todas las cosas.
-**René Descartes** *(1596-1650) Filósofo y matemático francés.*
+### Sólo se ve bien con el corazón; lo esencial es invisible para los ojos.
+**Antoine de Saint-Exupéry** *(1900-1944) Escritor francés.*
 <!-- END QUOTE -->
 
 
