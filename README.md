@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Los débiles no luchan. Los más fuertes quizás luchen una hora. Los que aún son más fuertes, luchan unos años. Pero los más fuertes de todos, luchan toda su vida, éstos son los indispensables.
-**Bertolt Brecht** *(1898-1956) Dramaturgo y poeta alemán.*
+### Por encima del talento están los valores comunes: disciplina, amor, buena suerte, pero, sobre todo, tenacidad.
+**James Baldwin** *(1924-1987) Ensayista, novelista y dramaturgo estadounidense.*
 <!-- END QUOTE -->
 
 
