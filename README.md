@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Por encima del talento están los valores comunes: disciplina, amor, buena suerte, pero, sobre todo, tenacidad.
-**James Baldwin** *(1924-1987) Ensayista, novelista y dramaturgo estadounidense.*
+### Frío e insípido es el consuelo cuando no va envuelto en algún remedio.
+**Platón** *(427 AC-347 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
