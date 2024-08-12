@@ -1,10 +1,10 @@
 # Don Antonio Suárez
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Frío e insípido es el consuelo cuando no va envuelto en algún remedio.
-**Platón** *(427 AC-347 AC) Filósofo griego.*
+### Prestad auxilio si queréis hallarlo.
+**Félix María de Samaniego** *(1745 -1801) Escritor español.*
 <!-- END QUOTE -->
 
 
