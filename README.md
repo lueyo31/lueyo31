@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Prestad auxilio si queréis hallarlo.
-**Félix María de Samaniego** *(1745 -1801) Escritor español.*
+### En asuntos de amor los locos son los que tienen más experiencia. De amor no preguntes nunca a los cuerdos; los cuerdos aman cuerdamente, que es como no haber amado nunca.
+**Jacinto Benavente** *(1866-1954) Dramaturgo español.*
 <!-- END QUOTE -->
 
 
