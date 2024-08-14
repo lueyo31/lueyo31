@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  26°C 🌤️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### En asuntos de amor los locos son los que tienen más experiencia. De amor no preguntes nunca a los cuerdos; los cuerdos aman cuerdamente, que es como no haber amado nunca.
-**Jacinto Benavente** *(1866-1954) Dramaturgo español.*
+### No pido riquezas, ni esperanzas, ni amor, ni un amigo que me comprenda; todo lo que pido es el cielo sobre mí y un camino a mis pies.
+**Robert Louis Stevenson** *(1850-1894) Escritor británico.*
 <!-- END QUOTE -->
 
 
