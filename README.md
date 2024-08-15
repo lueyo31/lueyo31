@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No pido riquezas, ni esperanzas, ni amor, ni un amigo que me comprenda; todo lo que pido es el cielo sobre mí y un camino a mis pies.
-**Robert Louis Stevenson** *(1850-1894) Escritor británico.*
+### Aunque el orgullo no es una virtud, es padre de muchas virtudes.
+**John Churton Collins** *(1848-1908) Crítico literario inglés.*
 <!-- END QUOTE -->
 
 
