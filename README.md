@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  23°C 🌤️
+### Valencia:  22°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Aunque el orgullo no es una virtud, es padre de muchas virtudes.
-**John Churton Collins** *(1848-1908) Crítico literario inglés.*
+### La conciencia hace que nos descubramos, que nos denunciemos o nos acusemos a nosotros mismos, y a falta de testigos declara contra nosotros.
+**Michel de Montaigne** *(1533-1592) Escritor y filósofo francés.*
 <!-- END QUOTE -->
 
 
