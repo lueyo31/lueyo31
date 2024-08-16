@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La conciencia hace que nos descubramos, que nos denunciemos o nos acusemos a nosotros mismos, y a falta de testigos declara contra nosotros.
-**Michel de Montaigne** *(1533-1592) Escritor y filósofo francés.*
+### El conocimiento si no se sabe aplicar es peor que la ignorancia.
+**Charles Bukowski** *(1920-1994) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
