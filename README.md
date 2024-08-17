@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Una prensa libre puede ser buena o mala, pero sin libertad, la prensa nunca será otra cosa que mala.
-**Albert Camus** *(1913-1960) Escritor francés.*
+### Benevolencia no quiere decir tolerancia de lo ruin, o conformidad con lo inepto, sino voluntad de bien.
+**Antonio Machado** *(1875-1939) Poeta y prosista español.*
 <!-- END QUOTE -->
 
 
