@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El conocimiento si no se sabe aplicar es peor que la ignorancia.
-**Charles Bukowski** *(1920-1994) Escritor estadounidense.*
+### Una prensa libre puede ser buena o mala, pero sin libertad, la prensa nunca será otra cosa que mala.
+**Albert Camus** *(1913-1960) Escritor francés.*
 <!-- END QUOTE -->
 
 
