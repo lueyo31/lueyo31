@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Aléjese de los palacios el que quiera ser justo. La virtud y el poder no se hermanan bien.
-**Lucano** *(39-65) Escritor latino.*
+### Es más fácil quedar bien como amante que como marido; porque es más fácil ser oportuno e ingenioso de vez en cuando que todos los días.
+**Honoré de Balzac** *(1799-1850) Escritor francés.*
 <!-- END QUOTE -->
 
 
