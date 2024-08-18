@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Benevolencia no quiere decir tolerancia de lo ruin, o conformidad con lo inepto, sino voluntad de bien.
-**Antonio Machado** *(1875-1939) Poeta y prosista español.*
+### Aléjese de los palacios el que quiera ser justo. La virtud y el poder no se hermanan bien.
+**Lucano** *(39-65) Escritor latino.*
 <!-- END QUOTE -->
 
 
