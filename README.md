@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es más fácil quedar bien como amante que como marido; porque es más fácil ser oportuno e ingenioso de vez en cuando que todos los días.
-**Honoré de Balzac** *(1799-1850) Escritor francés.*
+### Aunque logres ocultar los recuerdos, o enterrarlos muy hondo, no puedes borrar la historia. La historia no puede borrarse ni alterarse. Porque significaría matarte a ti mismo.
+**Haruki Murakami** *(1949-?) Escritor y traductor japonés.*
 <!-- END QUOTE -->
 
 
