@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  24°C 🌡️
+### Valencia:  23°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Aunque logres ocultar los recuerdos, o enterrarlos muy hondo, no puedes borrar la historia. La historia no puede borrarse ni alterarse. Porque significaría matarte a ti mismo.
-**Haruki Murakami** *(1949-?) Escritor y traductor japonés.*
+### Si no actúas como piensas, vas a terminar pensando como actúas.
+**Blaise Pascal** *(1623-1662) Científico, filósofo y escritor francés.*
 <!-- END QUOTE -->
 
 
