@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si no actúas como piensas, vas a terminar pensando como actúas.
-**Blaise Pascal** *(1623-1662) Científico, filósofo y escritor francés.*
+### Desconfío de la incomunicabilidad; es la fuente de toda violencia.
+**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
 <!-- END QUOTE -->
 
 
