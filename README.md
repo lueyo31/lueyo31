@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  26°C 🌡️
+### Valencia:  25°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Desconfío de la incomunicabilidad; es la fuente de toda violencia.
-**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
+### Tras el vivir y el soñar, está lo que más importa: el despertar
+**Antonio Machado** *(1875-1939) Poeta y prosista español.*
 <!-- END QUOTE -->
 
 
