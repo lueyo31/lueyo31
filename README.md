@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Tras el vivir y el soñar, está lo que más importa: el despertar
-**Antonio Machado** *(1875-1939) Poeta y prosista español.*
+### El deseo nos fuerza a amar lo que nos hará sufrir.
+**Marcel Proust** *(1871-1922) Escritor francés.*
 <!-- END QUOTE -->
 
 
