@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El deseo nos fuerza a amar lo que nos hará sufrir.
-**Marcel Proust** *(1871-1922) Escritor francés.*
+### No hace falta quemar libros si el mundo empieza a llenarse de gente que no lee, que no aprende, que no sabe...
+**Ray Bradbury** *(1920-2012) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
