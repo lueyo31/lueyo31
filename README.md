@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No hace falta quemar libros si el mundo empieza a llenarse de gente que no lee, que no aprende, que no sabe...
-**Ray Bradbury** *(1920-2012) Escritor estadounidense.*
+### Uno no es lo que es por lo que escribe, sino por lo que ha leído.
+**Jorge Luis Borges** *(1899-1986) Escritor argentino.*
 <!-- END QUOTE -->
 
 
