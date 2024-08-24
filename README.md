@@ -3,7 +3,7 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Uno no es lo que es por lo que escribe, sino por lo que ha leído.
+### La duda es uno de los nombres de la inteligencia.
 **Jorge Luis Borges** *(1899-1986) Escritor argentino.*
 <!-- END QUOTE -->
 
