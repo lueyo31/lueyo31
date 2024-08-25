@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Ama y haz lo que quieras. Si callas, callarás con amor; si gritas, gritarás con amor; si corriges, corregirás con amor, si perdonas, perdonarás con amor.
-**San Agustín** *(354-430) Obispo y filósofo.*
+### Una gran democracia debe progresar o pronto dejará de ser o grande o democracia.
+**Theodore Roosevelt** *(1858-1919) Político estadounidense.*
 <!-- END QUOTE -->
 
 
