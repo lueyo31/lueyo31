@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La duda es uno de los nombres de la inteligencia.
-**Jorge Luis Borges** *(1899-1986) Escritor argentino.*
+### Ama y haz lo que quieras. Si callas, callarás con amor; si gritas, gritarás con amor; si corriges, corregirás con amor, si perdonas, perdonarás con amor.
+**San Agustín** *(354-430) Obispo y filósofo.*
 <!-- END QUOTE -->
 
 
