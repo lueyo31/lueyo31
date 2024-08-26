@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌤️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Una gran democracia debe progresar o pronto dejará de ser o grande o democracia.
-**Theodore Roosevelt** *(1858-1919) Político estadounidense.*
+### Cuando Dios te da un don, también te da un látigo, y el látigo es únicamente para autoflagelarse.
+**Truman Capote** *(1924-1984) Escritor estadounidense.*
 <!-- END QUOTE -->
 
 
