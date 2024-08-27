@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌤️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Cuando Dios te da un don, también te da un látigo, y el látigo es únicamente para autoflagelarse.
-**Truman Capote** *(1924-1984) Escritor estadounidense.*
+### A veces, el silencio es la peor mentira.
+**Miguel de Unamuno** *(1864-1936) Filósofo y escritor español.*
 <!-- END QUOTE -->
 
 
