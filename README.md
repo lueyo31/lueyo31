@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### A veces, el silencio es la peor mentira.
-**Miguel de Unamuno** *(1864-1936) Filósofo y escritor español.*
+### Actuar es fácil, pensar es difícil; actuar según se piensa es aún más difícil.
+**Goethe** *(1749-1832) Poeta y dramaturgo alemán.*
 <!-- END QUOTE -->
 
 
