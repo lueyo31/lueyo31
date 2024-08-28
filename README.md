@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Actuar es fácil, pensar es difícil; actuar según se piensa es aún más difícil.
-**Goethe** *(1749-1832) Poeta y dramaturgo alemán.*
+### Con las pasiones uno no se aburre jamás; sin ellas, se idiotiza.
+**Stendhal** *(1783-1842) Escritor francés.*
 <!-- END QUOTE -->
 
 
