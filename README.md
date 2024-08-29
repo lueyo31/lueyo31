@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌤️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Con las pasiones uno no se aburre jamás; sin ellas, se idiotiza.
-**Stendhal** *(1783-1842) Escritor francés.*
+### Amar es verse como otro ser nos ve.
+**María Zambrano** *(1904-1991) Filósofa y ensayista española.*
 <!-- END QUOTE -->
 
 
