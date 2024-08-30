@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  25°C 🌡️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Amar es verse como otro ser nos ve.
-**María Zambrano** *(1904-1991) Filósofa y ensayista española.*
+### El que busca la verdad corre el riesgo de encontrarla.
+**Manuel Vicent** *(1936-?) Escritor español.*
 <!-- END QUOTE -->
 
 
