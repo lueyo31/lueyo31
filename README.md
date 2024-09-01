@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  24°C 🌤️
+### Valencia:  23°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El verdadero amor no se conoce por lo que exige, sino por lo que ofrece.
-**Jacinto Benavente** *(1866-1954) Dramaturgo español.*
+### El mando de muchos no es bueno; basta un solo jefe.
+**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
