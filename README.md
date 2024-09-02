@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El mando de muchos no es bueno; basta un solo jefe.
-**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
+### Espantoso juego del amor, en el cual es preciso que uno de ambos jugadores pierda el gobierno de sí mismo.
+**Charles Baudelaire** *(1821-1867) Escritor, poeta y crítico francés.*
 <!-- END QUOTE -->
 
 
