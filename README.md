@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  24°C 🌤️
+### Valencia:  24°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Espantoso juego del amor, en el cual es preciso que uno de ambos jugadores pierda el gobierno de sí mismo.
-**Charles Baudelaire** *(1821-1867) Escritor, poeta y crítico francés.*
+### La vida exige a todo individuo una contribución y depende del individuo descubrir en qué consiste.
+**Viktor Frankl** *(1905-1997) Psiquiatra y psicoterapeuta austriaco.*
 <!-- END QUOTE -->
 
 
