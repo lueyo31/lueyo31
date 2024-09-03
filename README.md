@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La vida exige a todo individuo una contribución y depende del individuo descubrir en qué consiste.
-**Viktor Frankl** *(1905-1997) Psiquiatra y psicoterapeuta austriaco.*
+### Estos son tiempos de uniformidad obligatoria en todo. Nunca el mundo ha sido tan desigual en brindar oportunidades y tan parejo en los hábitos que impone.
+**Eduardo Galeano** *(1940-2015) Escritor y periodista uruguayo.*
 <!-- END QUOTE -->
 
 
