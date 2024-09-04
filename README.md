@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Estos son tiempos de uniformidad obligatoria en todo. Nunca el mundo ha sido tan desigual en brindar oportunidades y tan parejo en los hábitos que impone.
-**Eduardo Galeano** *(1940-2015) Escritor y periodista uruguayo.*
+### Gente mucha, personas pocas.
+**Diógenes de Sínope** *(412 AC-323 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
