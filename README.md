@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Gente mucha, personas pocas.
-**Diógenes de Sínope** *(412 AC-323 AC) Filósofo griego.*
+### Si buscas resultados distintos, no hagas siempre lo mismo.
+**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
 <!-- END QUOTE -->
 
 
