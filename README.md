@@ -1,5 +1,5 @@
 # Lueyo
-### Valencia:  24°C 🌡️
+### Valencia:  24°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
