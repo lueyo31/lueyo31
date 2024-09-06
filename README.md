@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  23°C 🌤️
+### Valencia:  22°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Si buscas resultados distintos, no hagas siempre lo mismo.
-**Albert Einstein** *(1879-1955) Científico alemán nacionalizado estadounidense.*
+### No anticipéis las tribulaciones ni temáis lo que seguramente no os puede suceder. Vivid siempre en un ambiente de optimismo.
+**Benjamin Franklin** *(1706-1790) Estadista y científico estadounidense.*
 <!-- END QUOTE -->
 
 
