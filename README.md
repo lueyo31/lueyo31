@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  23°C 🌡️
+### Valencia:  22°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No anticipéis las tribulaciones ni temáis lo que seguramente no os puede suceder. Vivid siempre en un ambiente de optimismo.
-**Benjamin Franklin** *(1706-1790) Estadista y científico estadounidense.*
+### Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
+**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
 <!-- END QUOTE -->
 
 
