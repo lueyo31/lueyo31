@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  23°C 🌡️
+### Valencia:  23°C 🔥
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
-**Jean Paul Sartre** *(1905-1980) Filósofo y escritor francés.*
+### Puedes dar un mejor sermón con tu vida que con tus labios.
+**Oliver Goldsmith** *(1728-1774) Escritor británico.*
 <!-- END QUOTE -->
 
 
