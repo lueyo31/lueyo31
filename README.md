@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  22°C 🌡️
+### Valencia:  21°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Puedes dar un mejor sermón con tu vida que con tus labios.
-**Oliver Goldsmith** *(1728-1774) Escritor británico.*
+### ¿Qué es un envidioso? Un ingrato que detesta la luz que le alumbra y le calienta.
+**Victor Hugo** *(1802-1885) Novelista francés.*
 <!-- END QUOTE -->
 
 
