@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### ¿Qué es un envidioso? Un ingrato que detesta la luz que le alumbra y le calienta.
-**Victor Hugo** *(1802-1885) Novelista francés.*
+### Es hermoso escribir porque reúne las dos alegrías: hablar uno solo y hablarle a la multitud.
+**Cesare Pavese** *(1908-1950) Poeta y novelista italiano.*
 <!-- END QUOTE -->
 
 
