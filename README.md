@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es hermoso escribir porque reúne las dos alegrías: hablar uno solo y hablarle a la multitud.
-**Cesare Pavese** *(1908-1950) Poeta y novelista italiano.*
+### Toda historia no es otra cosa que una infinita catástrofe de la cual intentamos salir lo mejor posible.
+**Italo Calvino** *(1923-1985) Escritor italiano.*
 <!-- END QUOTE -->
 
 
