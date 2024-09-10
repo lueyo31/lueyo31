@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Toda historia no es otra cosa que una infinita catástrofe de la cual intentamos salir lo mejor posible.
-**Italo Calvino** *(1923-1985) Escritor italiano.*
+### Deberíamos crear una cátedra para enseñar a leer entre líneas.
+**León Bloy** *(1846-1917) Periodista y escritor francés.*
 <!-- END QUOTE -->
 
 
