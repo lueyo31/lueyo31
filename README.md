@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  21°C 🌡️
+### Valencia:  20°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Deberíamos crear una cátedra para enseñar a leer entre líneas.
-**León Bloy** *(1846-1917) Periodista y escritor francés.*
+### Sepan que olvidar lo malo también es tener memoria.
+**José Hernández** *(1834-1886) Periodista y poeta argentino.*
 <!-- END QUOTE -->
 
 
