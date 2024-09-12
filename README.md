@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  22°C 🌤️
+### Valencia:  21°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sepan que olvidar lo malo también es tener memoria.
-**José Hernández** *(1834-1886) Periodista y poeta argentino.*
+### Hay más fe en una honrada duda, creedme, que en la mitad de las creencias.
+**Alfred Tennyson** *(1809-1892) Poeta inglés.*
 <!-- END QUOTE -->
 
 
