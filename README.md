@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay más fe en una honrada duda, creedme, que en la mitad de las creencias.
-**Alfred Tennyson** *(1809-1892) Poeta inglés.*
+### Confianza es el sentimiento de poder creer a una persona incluso cuando sabemos que mentiríamos en su lugar.
+**Henry-Louis Mencken** *(1880-1956) Periodista y escritor estadounidense.*
 <!-- END QUOTE -->
 
 
