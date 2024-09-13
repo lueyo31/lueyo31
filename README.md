@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  22°C 🌡️
+### Valencia:  21°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Confianza es el sentimiento de poder creer a una persona incluso cuando sabemos que mentiríamos en su lugar.
-**Henry-Louis Mencken** *(1880-1956) Periodista y escritor estadounidense.*
+### No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos a hacerlas.
+**Séneca** *(2 AC-65) Filósofo latino.*
 <!-- END QUOTE -->
 
 
