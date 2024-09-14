@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No nos atrevemos a muchas cosas porque son difíciles, pero son difíciles porque no nos atrevemos a hacerlas.
-**Séneca** *(2 AC-65) Filósofo latino.*
+### Es extraña la ligereza con que los malvados creen que todo les saldrá bien.
+**Victor Hugo** *(1802-1885) Novelista francés.*
 <!-- END QUOTE -->
 
 
