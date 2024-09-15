@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  19°C 🌡️
+### Valencia:  18°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Es extraña la ligereza con que los malvados creen que todo les saldrá bien.
-**Victor Hugo** *(1802-1885) Novelista francés.*
+### El que no esté seguro de su memoria debe abstenerse de mentir.
+**Michel de Montaigne** *(1533-1592) Escritor y filósofo francés.*
 <!-- END QUOTE -->
 
 
