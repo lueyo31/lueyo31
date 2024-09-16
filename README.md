@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  19°C 🌡️
+### Valencia:  18°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### El que no esté seguro de su memoria debe abstenerse de mentir.
-**Michel de Montaigne** *(1533-1592) Escritor y filósofo francés.*
+### Así como el ignorante está muerto antes de morir, el hombre de talento vive aun después de muerto.
+**Publio Siro** *(Siglo I AC-?) Poeta dramático romano.*
 <!-- END QUOTE -->
 
 
