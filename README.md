@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Así como el ignorante está muerto antes de morir, el hombre de talento vive aun después de muerto.
-**Publio Siro** *(Siglo I AC-?) Poeta dramático romano.*
+### Disfrutar de todos los placeres es insensato; evitarlos, insensible.
+**Plutarco** *(50-125) Escritor griego.*
 <!-- END QUOTE -->
 
 
