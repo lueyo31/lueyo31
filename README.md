@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  22°C 🌤️
+### Valencia:  19°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Disfrutar de todos los placeres es insensato; evitarlos, insensible.
-**Plutarco** *(50-125) Escritor griego.*
+### Cada fracaso le enseña al hombre algo que necesitaba aprender.
+**Charles Dickens** *(1812-1870) Escritor y novelista inglés.*
 <!-- END QUOTE -->
 
 
