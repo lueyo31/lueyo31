@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Cada fracaso le enseña al hombre algo que necesitaba aprender.
-**Charles Dickens** *(1812-1870) Escritor y novelista inglés.*
+### Nuestro ánimo se inclina a confiar en aquellos a quienes no conocemos por esta razón: porque todavía no nos han traicionado.
+**Samuel Johnson** *(1709-1784) Escritor inglés.*
 <!-- END QUOTE -->
 
 
