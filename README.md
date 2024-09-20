@@ -1,5 +1,5 @@
 # Lueyo
-### Valencia:  20°C 🌡️
+### Valencia:  22°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
