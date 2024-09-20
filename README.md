@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  19°C 🌤️
+### Valencia:  18°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Nuestro ánimo se inclina a confiar en aquellos a quienes no conocemos por esta razón: porque todavía no nos han traicionado.
-**Samuel Johnson** *(1709-1784) Escritor inglés.*
+### No hay nada repartido de modo más equitativo que la razón: todo el mundo está convencido de tener suficiente.
+**René Descartes** *(1596-1650) Filósofo y matemático francés.*
 <!-- END QUOTE -->
 
 
