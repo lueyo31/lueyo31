@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  21°C 🌡️
+### Valencia:  20°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No hay nada repartido de modo más equitativo que la razón: todo el mundo está convencido de tener suficiente.
-**René Descartes** *(1596-1650) Filósofo y matemático francés.*
+### La sabiduría es un adorno en la prosperidad y un refugio en la adversidad.
+**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
 <!-- END QUOTE -->
 
 
