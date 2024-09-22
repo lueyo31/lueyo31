@@ -3,8 +3,8 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Hay una grieta en todo; solo así entra la luz.
-**Leonard Cohen** *(1934-2016) Poeta y cantante canadiense.*
+### Lo que es digno de hacerse, es digno de que se haga bien.
+**Conde de  Chesterfield** *(1694-1773) Político y escritor inglés.*
 <!-- END QUOTE -->
 
 
