@@ -1,10 +1,10 @@
 # Lueyo
-### Valencia:  18°C 🌤️
+### Valencia:  19°C 🌡️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### La sabiduría es un adorno en la prosperidad y un refugio en la adversidad.
-**Aristóteles** *(384 AC-322 AC) Filósofo griego.*
+### Hay una grieta en todo; solo así entra la luz.
+**Leonard Cohen** *(1934-2016) Poeta y cantante canadiense.*
 <!-- END QUOTE -->
 
 
