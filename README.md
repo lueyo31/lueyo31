@@ -1,10 +1,13 @@
 # Lueyo
-### Valencia:  20°C 🌤️
+### Valencia:  19°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Lo que es digno de hacerse, es digno de que se haga bien.
-**Conde de  Chesterfield** *(1694-1773) Político y escritor inglés.*
+### Nadie puede hacernos sentir inferiores sin nuestro consentimiento.
+**Eleanor Roosevelt** *(1884-1962) Defensora de los derechos sociales, diplomática y 
+
+
+Inferioridad.*
 <!-- END QUOTE -->
 
 
