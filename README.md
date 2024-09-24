@@ -1,13 +1,10 @@
 # Lueyo
-### Valencia:  19°C 🌤️
+### Valencia:  18°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Nadie puede hacernos sentir inferiores sin nuestro consentimiento.
-**Eleanor Roosevelt** *(1884-1962) Defensora de los derechos sociales, diplomática y 
-
-
-Inferioridad.*
+### Sólo con una ardiente paciencia conquistaremos la espléndida ciudad que dará luz, justicia y dignidad a todos los hombres. Así la poesía no habrá cantado en vano.
+**Pablo Neruda** *(1904-1973) Poeta chileno.*
 <!-- END QUOTE -->
 
 
