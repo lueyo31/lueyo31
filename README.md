@@ -3,8 +3,12 @@
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### Sólo con una ardiente paciencia conquistaremos la espléndida ciudad que dará luz, justicia y dignidad a todos los hombres. Así la poesía no habrá cantado en vano.
-**Pablo Neruda** *(1904-1973) Poeta chileno.*
+### No existe el fracaso, salvo cuando dejamos de esforzarnos.
+**Jean Paul Marat** *(1743-1793) Periodista y político revolucionario francés.
+
+
+
+Fracaso.*
 <!-- END QUOTE -->
 
 
