@@ -1,14 +1,10 @@
 # Lueyo
-### Valencia:  21°C 🌤️
+### Valencia:  25°C 🌤️
 ## Desarrollador web
 ## Frase del día:
 <!-- START QUOTE -->
-### No existe el fracaso, salvo cuando dejamos de esforzarnos.
-**Jean Paul Marat** *(1743-1793) Periodista y político revolucionario francés.
-
-
-
-Fracaso.*
+### Creo en la vida eterna en este mundo, hay momentos en que el tiempo se detiene de repente para dar lugar a la eternidad.
+**Fiodor Dostoievski** *(1821-1881) Novelista ruso.*
 <!-- END QUOTE -->
 
 
